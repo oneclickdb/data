@@ -26518,5 +26518,797 @@
         "date": "2026-06-26 07:12:14",
         "type": "Light",
         "value": 14062
+    },
+    {
+        "id": 317169,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:14:02",
+        "type": "Temperature",
+        "value": 1529
+    },
+    {
+        "id": 317170,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:16:31",
+        "type": "Light",
+        "value": 4895
+    },
+    {
+        "id": 317171,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:17:15",
+        "type": "Light",
+        "value": 14944
+    },
+    {
+        "id": 317172,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:19:13",
+        "type": "Temperature",
+        "value": 1500
+    },
+    {
+        "id": 317173,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:21:30",
+        "type": "Light",
+        "value": 5047
+    },
+    {
+        "id": 317174,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:22:15",
+        "type": "Light",
+        "value": 15870
+    },
+    {
+        "id": 317175,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:24:03",
+        "type": "Temperature",
+        "value": 1464
+    },
+    {
+        "id": 317176,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:26:30",
+        "type": "Light",
+        "value": 5608
+    },
+    {
+        "id": 317177,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:27:16",
+        "type": "Light",
+        "value": 17043
+    },
+    {
+        "id": 317178,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0402",
+        "date": "2026-06-26 07:28:36",
+        "type": "Temperature",
+        "value": 1924
+    },
+    {
+        "id": 317179,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:29:04",
+        "type": "Temperature",
+        "value": 1497
+    },
+    {
+        "id": 317180,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:31:29",
+        "type": "Light",
+        "value": 6444
+    },
+    {
+        "id": 317181,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:32:17",
+        "type": "Light",
+        "value": 17255
+    },
+    {
+        "id": 317182,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:34:14",
+        "type": "Temperature",
+        "value": 1521
+    },
+    {
+        "id": 317183,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:36:35",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317184,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:36:29",
+        "type": "Light",
+        "value": 6334
+    },
+    {
+        "id": 317185,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:36:50",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317186,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:37:17",
+        "type": "Light",
+        "value": 17663
+    },
+    {
+        "id": 317187,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:39:05",
+        "type": "Temperature",
+        "value": 1486
+    },
+    {
+        "id": 317188,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:40:31",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317189,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:40:45",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317190,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:41:01",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317191,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:41:23",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317192,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:41:37",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317193,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:41:28",
+        "type": "Light",
+        "value": 6656
+    },
+    {
+        "id": 317194,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:41:47",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317195,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:42:38",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317196,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:42:18",
+        "type": "Light",
+        "value": 18357
+    },
+    {
+        "id": 317197,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:42:48",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317198,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:43:11",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317199,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:43:21",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317200,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:43:43",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317201,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:44:07",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317202,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:45:32",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317203,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:45:46",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317204,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:46:28",
+        "type": "Light",
+        "value": 9288
+    },
+    {
+        "id": 317205,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:47:18",
+        "type": "Light",
+        "value": 17255
+    },
+    {
+        "id": 317206,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:48:30",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317207,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:48:44",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317208,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:49:06",
+        "type": "Temperature",
+        "value": 1503
+    },
+    {
+        "id": 317209,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:50:32",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317210,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:50:46",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317211,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:51:27",
+        "type": "Light",
+        "value": 7236
+    },
+    {
+        "id": 317212,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:51:51",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317213,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:52:12",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317214,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:52:19",
+        "type": "Light",
+        "value": 18249
+    },
+    {
+        "id": 317215,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:53:08",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317216,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:53:18",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317217,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0402",
+        "date": "2026-06-26 07:53:34",
+        "type": "Temperature",
+        "value": 1938
+    },
+    {
+        "id": 317218,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:54:03",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317219,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:54:13",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317220,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:54:07",
+        "type": "Temperature",
+        "value": 1522
+    },
+    {
+        "id": 317221,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:56:12",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317222,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:56:22",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317223,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:56:27",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317224,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 07:56:27",
+        "type": "Light",
+        "value": 7905
+    },
+    {
+        "id": 317225,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 07:56:53",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317226,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:56:57",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317227,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 07:57:08",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317228,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 07:57:19",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317229,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 07:57:29",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317230,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 07:57:20",
+        "type": "Light",
+        "value": 18463
+    },
+    {
+        "id": 317231,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:58:12",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317232,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 07:58:27",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317233,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0402",
+        "date": "2026-06-26 07:58:33",
+        "type": "Temperature",
+        "value": 1924
+    },
+    {
+        "id": 317234,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 07:59:17",
+        "type": "Temperature",
+        "value": 1540
+    },
+    {
+        "id": 317235,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 08:01:26",
+        "type": "Light",
+        "value": 7747
+    },
+    {
+        "id": 317236,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:01:56",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317237,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:02:12",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317238,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 08:02:20",
+        "type": "Light",
+        "value": 18504
+    },
+    {
+        "id": 317239,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:03:02",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317240,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:03:12",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317241,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:03:23",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317242,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:03:56",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317243,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:04:09",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317244,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:04:29",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317245,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:04:28",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317246,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:04:39",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317247,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0402",
+        "date": "2026-06-26 08:04:18",
+        "type": "Temperature",
+        "value": 1551
+    },
+    {
+        "id": 317248,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:04:42",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317249,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:05:03",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317250,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:05:06",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317251,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:05:17",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317252,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:05:25",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317253,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:05:47",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317254,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:05:41",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317255,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:05:56",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317256,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:06:12",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317257,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:06:26",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317258,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:06:39",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317259,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0400",
+        "date": "2026-06-26 08:06:25",
+        "type": "Light",
+        "value": 8874
+    },
+    {
+        "id": 317260,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:07:07",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317261,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:07:18",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317262,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:07:30",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317263,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0400",
+        "date": "2026-06-26 08:07:21",
+        "type": "Light",
+        "value": 20046
+    },
+    {
+        "id": 317264,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:07:44",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317265,
+        "name": "Outside",
+        "deviceID": "00:17:88:01:0e:b9:9d:2f-02-0406",
+        "date": "2026-06-26 08:07:49",
+        "type": "Motion",
+        "value": 0
+    },
+    {
+        "id": 317266,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:07:52",
+        "type": "Motion",
+        "value": 1
+    },
+    {
+        "id": 317267,
+        "name": "Inside",
+        "deviceID": "00:17:88:01:08:63:97:56-02-0406",
+        "date": "2026-06-26 08:08:02",
+        "type": "Motion",
+        "value": 0
     }
 ]
